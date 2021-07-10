@@ -1,11 +1,12 @@
   html {
     background: #5d3a3a;
-  }
-  div {
     width: 200px;
     height: 200px;
-    background: #b5e0ba;
+  }
+  button {
+    width: 50px;
+    height: 50px;
     position: absolute;
-    left: 0px;
-    top: 0px
+    left: 100px;
+    top 100px;
   }
